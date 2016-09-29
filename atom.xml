@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fengwufei.github.io/"/>
-  <updated>2016-09-03T06:12:45.918Z</updated>
+  <updated>2016-09-05T16:39:07.626Z</updated>
   <id>https://fengwufei.github.io/</id>
   
   <author>
@@ -14,6 +14,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://fengwufei.github.io/2016/09/06/test/"/>
+    <id>https://fengwufei.github.io/2016/09/06/test/</id>
+    <published>2016-09-05T16:37:05.821Z</published>
+    <updated>2016-09-05T16:39:07.626Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>哈哈</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;哈哈&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="First" scheme="https://fengwufei.github.io/categories/First/"/>
+    
+    
+      <category term="Test" scheme="https://fengwufei.github.io/tags/Test/"/>
+    
+  </entry>
   
   <entry>
     <title>思维的乐趣[王小波]</title>
